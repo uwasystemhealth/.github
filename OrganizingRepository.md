@@ -27,6 +27,10 @@ The common pieces of information that are ideal to have are:
 
 ![Locate Gear](images/repo-gear.png)
 
-1. Add your tags and description for your repository.
+3. Add your tags and description for your repository.
 
 ![Adding Description and Tag](images/repo-adjust-description-tags.png)
+
+If you did it correctly, it will look like this on the search list or the SHL organization page.
+
+![Result](images/repo-after-description-tags.png)
