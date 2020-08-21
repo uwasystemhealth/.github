@@ -22,7 +22,7 @@ The repository of the System Health Lab can be seen here. The section below will
 - [Living Lab](https://github.com/uwasystemhealth?q=livinglab&type=&language=)
 - [IoT](https://github.com/uwasystemhealth?q=iot&type=&language=)
   - [Bluebox](https://github.com/uwasystemhealth?q=bluebox&type=&language=)
-- [Data Analytics](https://github.com/uwasystemhealth?q=data-analyticst&type=&language=)
+- [Data Analytics](https://github.com/uwasystemhealth?q=data-analytics&type=&language=)
 - [Code used in Publication](https://github.com/uwasystemhealth?q=publication-code&type=&language=)
 - [University of Western Australia Projects](https://github.com/uwasystemhealth?q=uwa&type=&language=)
 - [Others](https://github.com/uwasystemhealth?q=others&type=&language=)
