@@ -1,13 +1,15 @@
 # About The System Health Lab
+
 The mission of the UWA System Health Lab (SHL) is “to imagine a richer university experience for digitally savvy students” by “bringing a start-up mentality and technologically curious students to industry-motivated research projects.”
 
 We provide a dynamic environment for engineering, computing and mathematics students to work on multi-disciplinary projects aimed at improving the maintenance of physical assets.
 
-The repository of the System Health Lab can be seen here. The section below will outline the different categories that the SHL mainly operates on.
+[SHL Admin (Members only)](https://github.com/uwasystemhealth/SHL_Admin)
 
-[SHL Admin](https://github.com/uwasystemhealth/SHL_Admin)
+The repositories of the System Health Lab can be seen here. The section below outlines the different categories of projects undertaken by the SHL.
 
 ## Tags / Topics
+
 - [MPE MDS and Honours Projects](https://github.com/uwasystemhealth?q=mpe-honours-project&type=&language=)
 - [SHL Admin](https://github.com/uwasystemhealth?q=shl-admin&type=&language=)
 - [Lab Equipment](https://github.com/uwasystemhealth?q=lab-equipment&type=&language=)
