@@ -5,6 +5,8 @@ We provide a dynamic environment for engineering, computing and mathematics stud
 
 The repository of the System Health Lab can be seen here. The section below will outline the different categories that the SHL mainly operates on.
 
+[SHL Admin](https://github.com/uwasystemhealth/SHL_Admin)
+
 ## Tags / Topics
 - [MPE MDS and Honours Projects](https://github.com/uwasystemhealth?q=mpe-honours-project&type=&language=)
 - [SHL Admin](https://github.com/uwasystemhealth?q=shl-admin&type=&language=)
