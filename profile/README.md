@@ -15,16 +15,14 @@ We provide a dynamic environment for engineering, computing and mathematics stud
 The repository of the System Health Lab can be seen here. The section below will outline the different categories that the SHL mainly operates on.
 
 ## Tags / Topics
-- [Master's of Professional Engineering and Honours Projects](https://github.com/uwasystemhealth?q=mpe-honours-project&type=&language=)
+- [MPE MDS and Honours Projects](https://github.com/uwasystemhealth?q=mpe-honours-project&type=&language=)
 - [SHL Admin](https://github.com/uwasystemhealth?q=shl-admin&type=&language=)
 - [Lab Equipment](https://github.com/uwasystemhealth?q=lab-equipment&type=&language=)
 - [Technical Language Processing](https://github.com/uwasystemhealth?q=tlp&type=&language=)
 - [Living Lab](https://github.com/uwasystemhealth?q=livinglab&type=&language=)
 - [IoT](https://github.com/uwasystemhealth?q=iot&type=&language=)
-  - [Bluebox](https://github.com/uwasystemhealth?q=bluebox&type=&language=)
 - [Data Analytics](https://github.com/uwasystemhealth?q=data-analytics&type=&language=)
 - [Code used in Publication](https://github.com/uwasystemhealth?q=publication-code&type=&language=)
-- [University of Western Australia Projects](https://github.com/uwasystemhealth?q=uwa&type=&language=)
 - [Others](https://github.com/uwasystemhealth?q=others&type=&language=)
 
 
